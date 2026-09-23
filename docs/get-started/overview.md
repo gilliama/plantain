@@ -1,11 +1,8 @@
 # What is Plantain?
 
-Plantain is a local-first testing workbench for people who know what their product
-should do—even when they do not write automation code.
+Plantain is an open-source YAML-driven, AI-orchestrated test automation framework built in Python for any web UI, Swagger/OpenAPI service, and supported SQLAlchemy database.
 
-You describe the behavior in plain language. Plantain’s agent determines what must
-be clarified or observed, creates a reviewable test artifact, runs it through the
-same bounded runtime used by the CLI, and presents the evidence in the dashboard.
+You describe the behavior in plain language. Plantain’s agent determines what must be clarified or observed, creates a reviewable test artifact, runs it through the same bounded runtime used by the CLI, and presents the evidence in the dashboard.
 
 ## The Plantain workflow
 
@@ -104,7 +101,6 @@ The interface changes; the runtime does not.
 - It does not allow AI-driven database writes.
 - It does not silently relax URL, DNS, schema, size, or timeout policy.
 - It does not overwrite an earlier result when a test is run again.
-- It does not turn activities into an unrestricted plugin surface.
 
 ## Your next step
 
