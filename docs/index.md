@@ -1,6 +1,5 @@
-# The AI-orchestrated test automation framework built in Python
+# The AI-orchestrated Test Automation Framework
 
-The framework is intentionally small:
 Tell Plantain what needs testing in plain language, and the AI agent gathers the right evidence, proposes many test cases you can review, and runs cross-boundary UI, API, and database operations.
 
 Spend more time defining intent, risk, expected behavior, evidence, and guardrails, while AI handles all of the repetitive implementation and execution.
