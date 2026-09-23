@@ -1,7 +1,9 @@
-# Start with the behavior that matters
+# The AI-orchestrated test automation framework built in Python
 
-Tell Plantain what needs confidence. Its agent gathers the right evidence, proposes
-a test you can review, runs it, and keeps the result local by default.
+The framework is intentionally small:
+Tell Plantain what needs testing in plain language, and the AI agent gathers the right evidence, proposes many test cases you can review, and runs cross-boundary UI, API, and database operations.
+
+Spend more time defining intent, risk, expected behavior, evidence, and guardrails, while AI handles all of the repetitive implementation and execution.
 
 [Create your first test](get-started/first-test.md){ .md-button .md-button--primary }
 [Explore Plantain](get-started/overview.md){ .md-button }
